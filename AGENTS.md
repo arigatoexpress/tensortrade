@@ -1,6 +1,6 @@
 # tensortrade — Agent Notes
 
-Status: FORK
+Status: ARCHIVED (fork, superseded by `arigatoexpress/Sapphire`)
 Remote: https://github.com/arigatoexpress/tensortrade.git
 Upstream: https://github.com/tensortrade-org/tensortrade.git
 
